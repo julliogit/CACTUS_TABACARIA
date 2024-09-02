@@ -1,5 +1,20 @@
 # Projeto para uma nova tabacaria
 
+<center>
+  Esse texto vai ficar centralizado.
+  <p>Este parágrafo também.</p>
+</center>
+
+<center>
+  Esse texto vai ficar centralizado.
+  <p>Este parágrafo também.</p>
+</center>
+
+<div style="text-align:center">
+  Esse texto vai ficar centralizado.
+  <p>Este parágrafo também.</p>
+</div>
+
 
 # Vamos vender sedinhas!!!
 
