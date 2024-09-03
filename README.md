@@ -31,3 +31,6 @@ NOSSO MAIOR CLIENTE!!!!        CUIDADO QUE ELE É PERIGOSO
 
 O melhor namorado do mundo é o MEEEEU AMOR
 ![center](https://github.com/user-attachments/assets/7ed0f307-9bd0-4181-96a9-5d5a3cd88a0f)
+
+A MULHER DA SUA VIDA TODINHA 
+![image](https://github.com/user-attachments/assets/1304ab1f-be2f-4e29-a5bc-69956e4c0249)
