@@ -29,7 +29,5 @@ NOSSO MAIOR CLIENTE!!!!        CUIDADO QUE ELE É PERIGOSO
 
 ![center](https://media.licdn.com/dms/image/v2/D4D03AQHeYLGGxfEqMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1687288472600?e=1730937600&v=beta&t=NxwoJ-Ueyol-nTBCJU7fMuH4u8_c6NwAy4TIDQLI2G8)
 
-aj
-
-
+O melhor namorado do mundo é o MEEEEU AMOR
 ![center](https://github.com/user-attachments/assets/7ed0f307-9bd0-4181-96a9-5d5a3cd88a0f)
